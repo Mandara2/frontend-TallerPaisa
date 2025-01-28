@@ -2,8 +2,10 @@ import axios from 'axios'
 import { API_CRUD_URL } from '../config'
 
 const url = axios.create({
-    baseURL:`${API_CRUD_URL} + adress`
+    baseURL:`${API_CRUD_URL} + address`
 })
+
+
 
 export const getAllAdress =()=>{
     return url.get("/")
