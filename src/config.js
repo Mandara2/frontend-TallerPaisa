@@ -1,0 +1,1 @@
+export const API_CRUD_URL = "http://127.0.0.1:8000/crud/";
