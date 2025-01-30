@@ -1,7 +1,7 @@
 import AddressPage from "./AddressPage";
 
-const addressRoutes = [
+const AddressRoutes = [
   { path: "/addresses", element: <AddressPage /> },
 ];
 
-export default addressRoutes;
+export default AddressRoutes;

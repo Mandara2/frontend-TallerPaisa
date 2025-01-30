@@ -1,4 +1,4 @@
-import DepartmentPage from "./DepartmentPage";
+import DepartmentPage from "./Department";
 
 const DepartmentRoutes = [
   { path: "/departments", element: <DepartmentPage /> },

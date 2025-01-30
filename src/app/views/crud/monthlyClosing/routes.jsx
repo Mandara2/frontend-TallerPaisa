@@ -1,4 +1,4 @@
-import MonthlyClosingPage from "./MonthlyClosingPage";
+import MonthlyClosingPage from "./MonthlyClosing";
 
 const MonthlyClosingRoutes = [
   { path: "/monthlyClosing", element: <MonthlyClosingPage /> },

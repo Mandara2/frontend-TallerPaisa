@@ -1,4 +1,4 @@
-import EmployeePage from "./EmployeePage";
+import EmployeePage from "./Employee";
 
 const EmployeeRoutes = [
   { path: "/employees", element: <EmployeePage /> },

@@ -1,4 +1,4 @@
-import DailyClosingPage from "./DailyClosingPage";
+import DailyClosingPage from "./DailyClosing";
 
 const DailyClosingRoutes = [
   { path: "/dailyClosing", element: <DailyClosingPage /> },
